@@ -12,7 +12,7 @@
    ```
 
    对于 Windows 系统，打开下载的目录，在地址栏里输入 `cmd` 然后按回车，如下图所示：
-   ![windows configuration](windows configuration.jpg)
+   ![windows configuration](windows%20configuration.jpg)
 
 2. 对于在国内的同学，可以修改 Conda 的下载源来加速库的下载:
 
