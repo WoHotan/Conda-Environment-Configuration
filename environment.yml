@@ -1,0 +1,10 @@
+name: mlnd-env
+dependencies:
+- python = 2.7
+- jupyter
+- matplotlib
+- pandas
+- numpy
+- scikit-learn = 0.18.0
+- pip:
+  - pygame
