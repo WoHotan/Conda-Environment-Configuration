@@ -17,10 +17,10 @@
 2. 对于在国内的同学，可以修改 Conda 的下载源来加速库的下载:
 
    ```
-   # 优先使用清华conda镜像
+   ## 优先使用清华conda镜像
    conda config --prepend channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
    
-   # 也可选用科大conda镜像
+   ## 也可选用科大conda镜像
    conda config --prepend channels http://mirrors.ustc.edu.cn/anaconda/pkgs/free/
    ```
 
